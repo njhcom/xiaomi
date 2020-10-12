@@ -1,0 +1,79 @@
+{
+    "hotgoods": [
+        {
+            "imgsrc": "/static/img/T1riKjB7VT1RXrhCrK.jpg",
+            "title": "大米电视2/2S 全系列",
+            "desc": "40/48/49/55英寸 现货购买"
+        },
+        {
+            "imgsrc": "/static/img/T19AbjBCDT1RXrhCrK.jpg",
+            "title": "大米平板",
+            "desc": "全球首款 NVIDIA Tegra K1 平板"
+        },
+        {
+            "imgsrc": "/static/img/T1meZjBCAT1RXrhCrK.jpg",
+            "title": "大米盒子增强版 1G",
+            "desc": "首款4K超高清网络机顶盒"
+        },
+        {
+            "imgsrc": "/static/img/T1tsEgB7DT1RXrhCrK.jpg",
+            "title": "全新大米路由器",
+            "desc": "顶配路由器，企业级性能"
+        },
+        {
+            "imgsrc": "/static/img/T10TJjB5hT1RXrhCrK.jpg",
+            "title": "大米头戴式耳机",
+            "desc": "媲美主流千元级头戴耳机"
+        }
+    ],
+    "hardware": [
+        {
+            "imgsrc": "/static/img/T1odEjB5bT1RXrhCrK.jpg",
+            "title": "大米智能家庭套装",
+            "desc": "3分钟快速安装，30多种智能玩法",
+            "price": "199元"
+        },
+        {
+            "imgsrc": "/static/img/T1JKxvBXhv1RXrhCrK.jpg",
+            "title": "大米随身WIFI 8GB U盘版",
+            "desc": "随身上网神器，内置8GB U盘",
+            "price": "49.9元"
+        },
+        {
+            "imgsrc": "/static/img/T18yZQBCET1RXrhCrK.jpg",
+            "title": "小蚁智能摄像机",
+            "desc": "能看能听能说，手机远程观看",
+            "price": "149元"
+        },
+        {
+            "imgsrc": "/static/img/T1YoZQByYT1RXrhCrK.jpg",
+            "title": "大米体重称",
+            "desc": "高精度压力传感器 ｜ 手机管理全家健康",
+            "price": "99元"
+        },
+        {
+            "imgsrc": "/static/img/T16nVjBCKT1RXrhCrK.jpg",
+            "title": "小蚁运动机",
+            "desc": "边玩边录边拍，手机随时分享",
+            "price": "399元"
+        },
+        {
+            "imgsrc": "/static/img/T18zWQB4WT1RXrhCrK.jpg",
+            "title": "大米路由器 mini",
+            "desc": "主流双频AC智能路由器，性价比之王",
+            "price": "129元"
+        },
+        {
+            "imgsrc": "/static/img/T1oixjB5bT1RXrhCrK.jpg",
+            "title": "大米智能插座",
+            "desc": "手机远程遥控开关，带USB接口",
+            "price": "59元"
+        },
+        {
+            "imgsrc": "/static/img/T1KzbQBvbT1RXrhCrK.jpg",
+            "title": "大米水质TDS检测笔",
+            "desc": "准确检测家中水质纯度",
+            "price": "39元"
+        }
+    ]
+}
